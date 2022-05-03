@@ -1,0 +1,159 @@
+[
+  {
+    "img" : ""
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/9/90/RWS_Tarot_00_Fool.jpg/220px-RWS_Tarot_00_Fool.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EB%B0%94%EB%B3%B4_(%ED%83%80%EB%A1%9C)",
+    "text" : "0. The Fool : 즐거움을 쫓아 이리저리 떠돌아 다니는 바드, 혹은 왕성에서 왕에게 이런저런 이야기를 소근거려 부추기는 광대를 의미하는 카드. 다른 카드의 보조적인 역할을 할 때는 다른 카드의 힘을 증폭시키는 역할도 한다. 상당히 복잡한 카드.",
+    "good" : "정위치 - 소박, 단순함. 천진함, 화려함, 열광, 파격적, 즐거움 등.",
+    "bad" : "역위치 - 부주의, 맹목적임, 불확실, 경솔함, 무절제, 불안함, 바람둥이 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/de/RWS_Tarot_01_Magician.jpg/220px-RWS_Tarot_01_Magician.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EC%88%A0%EC%82%AC_(%ED%83%80%EB%A1%9C)",
+    "text" : "1. The Magician : 마법사. 젊고, 강력한 힘을 가졌으나 스스로도 그 힘을 통제하지 못하는 정도의 인물을 뜻한다.",
+    "good" : "정위치 - 시작, 창조적, 감각, 개성, 상상력, 속임수, 독자적 등.",
+    "bad" : "역위치 - 정위치의 의미와 거의 반대되는 의미를 가진다."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/8/88/RWS_Tarot_02_High_Priestess.jpg/220px-RWS_Tarot_02_High_Priestess.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EA%B5%90%ED%99%A9",
+    "text" : "2. The High Priestess : 여사제, 여법황 등으로 번역된다. 여법황, 여황제, 황제, 법황 카드들은 서로 짝이 되는 카드다. 여성 카드- 여법황과 여황제는 영혼과 감성, 남성 카드- 법황과 황제는 육체와 세속을 의미한다. 종교 카드- 여법황과 법황은 정신적인 면, 왕권 카드- 여황제와 황제는 힘을 의미한다. 여법황 카드는 영혼과 감성 등의 정신을 의미하는 최고의 카드다. 감성적인 면에서 지주가 되는 인물을 가리키는 카드이기도 하다.",
+    "good" : "정위치 - 지혜, 신비, 깨달음, 숨겨진 열정, 평온, 침착함 등.",
+    "bad" : "역위치 - 결벽성, 자기 중심의 사고, 정위치의 반대 의미들."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/d2/RWS_Tarot_03_Empress.jpg/220px-RWS_Tarot_03_Empress.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EC%A0%9C_(%ED%83%80%EB%A1%9C)",
+    "text" : "3. The Empress : 여황제 카드. 감성적인 힘, 정신적인 힘을 나타내는 카드다. 대인관계에서는 어머니나 아내, 여자형제 등을 나타내기도 한다. 보편적으로 보여지는 여성성의 극치를 나타내는 카드.",
+    "good" : "정위치 - 결실, 완성, 성취력, 여성의 힘이 커지는 시기, 실용적 등.",
+    "bad" : "역위치 - 질투, 변덕 등 정위치에 거의 반대되는 의미."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/c/c3/RWS_Tarot_04_Emperor.jpg/220px-RWS_Tarot_04_Emperor.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EC%A0%9C_(%ED%83%80%EB%A1%9C)",
+    "text" : "4. The Emperor : 황제 카드. 육체적, 세속적인 힘이 외부로 드러나는 것을 말한다. 아버지, 남편, 남자형제 등을 나타내기도 한다. 남성성의 극치를 말하는 카드.",
+    "good" : "정위치 - 현실적, 원만함, 부유함, 세속적인 힘, 권위, 의지, 가장 등.",
+    "bad" : "역위치 - 압박, 경제력 상실, 위 의미에 대한 반대의 의미."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/8/8d/RWS_Tarot_05_Hierophant.jpg/220px-RWS_Tarot_05_Hierophant.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EA%B5%90%ED%99%A9_(%ED%83%80%EB%A1%9C)",
+    "text" : "5. The Hierophant : 법황 카드. 세속적이고 현실적인 면에서의 정신적인 부분을 관장하는 카드다. 집안의 지주이면서 물리적 힘이나, 경제적인 지원도 없이, 온 집안을 통제하고 있는 인물의 이미지.",
+    "good" : "정위치 - 자비, 동정심, 존경할 만한 인물, 원칙주의, 전통, 용서 등.",
+    "bad" : "역위치 - 부모와의 충돌, 초조함, 혁신, 정위치의 반대적 의미."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/db/RWS_Tarot_06_Lovers.jpg/220px-RWS_Tarot_06_Lovers.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%97%B0%EC%9D%B8_(%ED%83%80%EB%A1%9C)",
+    "text" : "6. The Lovers : 연인. 연인 자체를 의미한다기 보다는 사랑과 연애문제에서 일어날 수 있는 갖가지 의미를 가진 카드다. 대체적으로 인생사 전반보다는 '사랑' 이라는 큰 틀을 가진 카드이므로 해석은 어렵지 않다.",
+    "good" : "정위치 - 사랑, 아름다움, 열렬함, 기쁨, 결혼, 낙천성, 감정의 전달 등.",
+    "bad" : "역위치 - 시련, 선택의 기로, 이별, 장난기, 유혹 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/9/9b/RWS_Tarot_07_Chariot.jpg/220px-RWS_Tarot_07_Chariot.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%B0%A8_(%ED%83%80%EB%A1%9C)",
+    "text" : "7. The Chariot : 전차 카드. 돌진하는 힘을 가리키는 카드다. 돌진이라는 말은 상징적이면서도 현실적인 의미 두가지를 다 나타낸다.",
+    "good" : "정위치 - 목표를 향한 돌진, 영향력, 행동적, 성공, 적극성 등.",
+    "bad" : "역위치 - 맹목적, 좌절, 무모함, 역경, 자잘한 고민거리들, 파괴 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f5/RWS_Tarot_08_Strength.jpg/220px-RWS_Tarot_08_Strength.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%ED%9E%98_(%ED%83%80%EB%A1%9C)",
+    "text" : "8. The Strength : 힘 카드. 전차가 이미 움직이고 있는 힘을 말한다면 '힘' 카드는 움직일 준비를 하고 있는, 또는 이미 모든 행동을 종료한, 말 그대로의 힘을 가리킨다.",
+    "good" : "정위치 - 용기, 힘, 극복, 도전적, 열심, 결단력, 인내 등.",
+    "bad" : "역위치 - 빗나간 힘, 그 반탄력이 역위치의 의미다. 위험, 불안, 복수 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/4/4d/RWS_Tarot_09_Hermit.jpg/220px-RWS_Tarot_09_Hermit.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%9D%80%EC%9E%90_(%ED%83%80%EB%A1%9C)",
+    "text" : "9. The Hermit : 은둔자 카드. 세상을 등지고 굴 속에 들어가 수련하는 사람을 가리키기도 하고, 세상과 맞설 용기가 없어 숨어사는 사람을 가리키기도 한다. 현자(賢者)와 겁쟁이의 이미지를 가진 카드.",
+    "good" : "정위치 - 조언, 불멸, 정신적, 존중, 신중함, 성숙, 자제력 등.",
+    "bad" : "역위치 - 의심, 겁쟁이, 후퇴, 취소, 숨기는 일이 있음, 경계 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg/220px-RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%9A%B4%EB%AA%85%EC%9D%98_%EB%B0%94%ED%80%B4",
+    "text" : "10. Wheel of Fortune : 운명의 수레바퀴 카드. 운명 그 자체를 가리키는 카드다.",
+    "good" : "정위치 - 운명적, 결말, 진행, 벗어날 수 없음, 예정대로 등.",
+    "bad" : "역위치 - 운명에 무언가가 개입하여 정해진 상황을 뒤틀어놓는 상황을 나타낸다."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/e/e0/RWS_Tarot_11_Justice.jpg/220px-RWS_Tarot_11_Justice.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EC%9D%98_(%ED%83%80%EB%A1%9C)",
+    "text" : "11. Justice : 정의 카드. 정의 자체보다는, 한손에는 칼, 다른 손에는 천칭을 들고 있는 정의의 여신을 가리키는 카드다. 균형을 의미하므로 Balance라고 표기되어 있는 경우도 많다.",
+    "good" : "정위치 - 평정, 균형, 공평함, 분별력, 양립, 조화, 명예, 진실 등.",
+    "bad" : "역위치 - 불균형, 불공평, 일방적, 보상이 없음, 비호의적, 무시 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/2/2b/RWS_Tarot_12_Hanged_Man.jpg/220px-RWS_Tarot_12_Hanged_Man.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%8B%AC%EB%A6%B0_%EB%82%A8%EC%9E%90",
+    "text" : "12. The Hanged Man : 매달린 남자 카드. 친구, 또는 동료들을 위해 홀로 누명을 쓰고 처형을 받는 남자를 나타내는 카드다. 명예로운 자기희생과 누명, 처형 등의 복합적인 의미를 가진 카드다.",
+    "good" : "정위치 - 희생, 헌신, 정성, 후회, 수호 등.",
+    "bad" : "역위치 - 냉담, 포기, 둔감함, 권태, 정지, 갱생 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/d7/RWS_Tarot_13_Death.jpg/220px-RWS_Tarot_13_Death.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%A3%BD%EC%9D%8C_(%ED%83%80%EB%A1%9C)",
+    "text" : "13. Death : 죽음 카드. 대개 죽음의 신이 그려져 있다. 죽음이라기보다는 일의 종료, 누군과의 관계의 종료 등 종료를 나타내는 카드다. 정위치가 나쁜 의미, 역위치가 오히려 좋은 의미다.",
+    "good" : "정위치 - 불행, 변화, 이별, 오해, 불안정함, 뜻밖의 변화, 손실 등.",
+    "bad" : "역위치 - 시작, 부활, 새출발, 호전되는 시기 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/f/f8/RWS_Tarot_14_Temperance.jpg/220px-RWS_Tarot_14_Temperance.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%A0%88%EC%A0%9C_(%ED%83%80%EB%A1%9C)",
+    "text" : "14. Temperance : 절제 카드. 중용과 균형을 상징하므로 Justice 와 비슷한 점이 많지만, 정의가 불균형한 상태에 힘을 가해 균형을 유지하려고 하는 움직임을 나타내는데 비해, 절제는 안정되고 균형잡힌 그 상황 자체를 가리킨다. 역위치는 그 힘이 무너져 변화가 생겨나는 것을 나타낸다.",
+    "good" : "정위치 - 중용, 절제, 균형, 인내, 검소, 영향력, 적응 등.",
+    "bad" : "역위치 - 달성, 결합, 변화, 통제불가능, 피로 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/5/55/RWS_Tarot_15_Devil.jpg/220px-RWS_Tarot_15_Devil.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%95%85%EB%A7%88_(%ED%83%80%EB%A1%9C)",
+    "text" : "15. The Devil : 악마 카드. 정위치는 사소한 불행, 역위치는 좀더 강한 불행이라는 나쁜 의미를 가지고 있다.",
+    "good" : "정위치 - 비밀, 복종, 자학, 충격, 두려움, 손재수, 실패 등.",
+    "bad" : "역위치 - 이별, 애증, 악의, 비굴, 몰락, (큰) 실패, 불운, 처벌 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/5/53/RWS_Tarot_16_Tower.jpg/220px-RWS_Tarot_16_Tower.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%ED%83%91_(%ED%83%80%EB%A1%9C)",
+    "text" : "16. The Tower : 탑 카드. 타워는 예기치 못한 큰 변화를 나타내는 카드다. 변화라는 특성상 안정적인 상황은 다 사라지고, 새로운 상황에 적응하기 위해 힘든 나날을 보내게 된다. 정위치와 역위치 모두 좋지 못한 의미를 갖는다.",
+    "good" : "정위치 - 예기치 못한 급변, 대격변, 신념의 파괴, 이별, 파산, 안정의 상실 등.",
+    "bad" : "역위치 - 위기, 긴박한 상황, 주위의 압박, 스트레스, 숨겨진 진실을 깨닫는다 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/db/RWS_Tarot_17_Star.jpg/220px-RWS_Tarot_17_Star.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EB%B3%84_(%ED%83%80%EB%A1%9C)",
+    "text" : "17. The Star : 별 카드. 점술가의 상징인 카드다. 희망을 나타내는 카드이면서, 그 희망을 손에 넣기까지의 혼란을 나타내기도. 어두운 밤에 길을 가며 지표로 삼는 길잡이 별이 이 카드의 이미지다.",
+    "good" : "정위치 - 희망, 이상, 낙천적, 조언자, 신념, 평정을 되찾다 등.",
+    "bad" : "역위치 - 혼란, 어두운 생각, 통찰력을 잃음, 기대에 미치지 못함 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/7/7f/RWS_Tarot_18_Moon.jpg/220px-RWS_Tarot_18_Moon.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EB%8B%AC_(%ED%83%80%EB%A1%9C)",
+    "text" : "18. The Moon : 달 카드. 여성의 상징인 카드인 동시에 정신적인 힘을 최고로 고양시켜주는 카드이기도 하다. 점술의 기본이 되는 영력을 많이 가진 사람에게 자주 나타나는 카드. 외향적인 태양 카드에 비해 내성적인 카드다.",
+    "good" : "정위치 - 애매모호함, 정신적, 감성, 비밀, 여성, 예민함, 직관, 영력 등.",
+    "bad" : "역위치 - 방황, 초조함, 위선, 속임수, 교활함, 피상적인, 손에 넣을 수 없는 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/1/17/RWS_Tarot_19_Sun.jpg/220px-RWS_Tarot_19_Sun.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%ED%83%9C%EC%96%91_(%ED%83%80%EB%A1%9C)",
+    "text" : "19. The Sun : 태양 카드. 외향적인 힘을 상징하는 카드다. 남성의 상징이며, 육체적인 힘, 영향력, 건강 등을 나타낸다. 주로 외부에 미치는 영향을 가리킨다.",
+    "good" : "정위치 - 축복, 행복, 만족, 호의적, 건강, 남성, 성실, 온정 등.",
+    "bad" : "역위치 - 파국, 불만족, 단시(短時)적인, 해방, 난잡함 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/dd/RWS_Tarot_20_Judgement.jpg/220px-RWS_Tarot_20_Judgement.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%8B%AC%ED%8C%90_(%ED%83%80%EB%A1%9C)",
+    "text" : "20. Judgement : 심판 카드. 성서나 기타 여러 종교에서 보여지는 최후의 심판을 원형으로 하고 있는 카드다. 심판을 거쳐 혹자는 영원한 죽음을, 혹자는 부활하여 새로운 삶을 살게 된다는 양날의 칼 같은 의미를 지닌 카드다.",
+    "good" : "정위치 - 부활, 보상, 심판, 용서, 원기회복, 발전, 결정을 해야 할 시기 등.",
+    "bad" : "역위치 - 참회, 과거의 업보, 결과, 심판, 결정을 해야 할 시기 등."
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/ko/thumb/f/ff/RWS_Tarot_21_World.jpg/220px-RWS_Tarot_21_World.jpg",
+    "url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EA%B3%84_(%ED%83%80%EB%A1%9C)",
+    "text" : "21. The World : 세계 카드. 타로 카드 중에서 가장 최고로 좋은 카드라고 한다. 역위치조차도 좋은 의미라고 볼 수 있는 카드이기 때문. 이 카드가 나타났을 때는 운이 자신의 쪽으로 돌아왔다고 생각해도 좋다.",
+    "good" : "정위치 - 행복, 완성, 좋은 결과, 성공, 뛰어난 능력, 행운 등.",
+    "bad" : "역위치 - 진행중, 동경, 매너리즘, 익숙함, 인내해야 할 시기 등."
+  }
+]

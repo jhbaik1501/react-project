@@ -1,0 +1,77 @@
+.CardContainer {
+	background-color: #0c0c0c;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	width: 100%;
+
+	.cards {
+		width: 1000px;
+		height: 400px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		.card {
+			width: 280px;
+			height: 400px;
+			margin: 0 -40px;
+			border: 3px solid white;
+			border-radius: 15px;
+			filter: brightness(50%);
+			background: url("https://i.pinimg.com/564x/33/d3/6e/33d36e05cf69d684bee42752905cb884.jpg") no-repeat center;
+			background-size: cover;
+			z-index: 0;
+			transition: transform 0.4s, filter 0.4s, z-index 0.2s;
+			cursor: pointer;
+
+			&:hover {
+				filter: brightness(100%);
+				box-shadow: 0 15px 20px 10px rgba(0, 0, 0, 0.15);
+				background: var(--bg) no-repeat center;
+				background-size: 100% 100%;
+				z-index: 1;
+			}
+
+			&:nth-child(1) {
+				transform: rotate(-30deg);
+				margin-top: 40px;
+
+				&:hover {
+					transform: rotate(-30deg) translateY(-30px);
+				}
+			}
+
+			&:nth-child(2) {
+				transform: rotate(-15deg) translateY(-60px);
+				&:hover {
+					transform: rotate(-15deg) translateY(-90px);
+				}
+			}
+
+			&:nth-child(3) {
+				transform: rotate(0deg) translateY(-90px);
+				margin-top: 10px;
+				&:hover {
+					transform: rotate(0deg) translateY(-120px);
+				}
+			}
+
+			&:nth-child(4) {
+				transform: rotate(15deg) translateY(-60px);
+				&:hover {
+					transform: rotate(15deg) translateY(-90px);
+				}
+			}
+
+			&:nth-child(5) {
+				transform: rotate(30deg);
+				margin-top: 40px;
+				&:hover {
+					transform: rotate(30deg) translateY(-30px);
+				}
+			}
+		}
+	}
+}

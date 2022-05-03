@@ -1,0 +1,237 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@400;700&display=swap");
+
+.main {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	/* padding-bottom: 100px; */
+	background-color: #565888;
+	overflow-x: hidden;
+	padding: 0 10rem;
+}
+
+.code-section {
+	flex: 1;
+}
+
+.padding-container {
+	margin: 30px 50px 0 30px;
+}
+
+.main-title {
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.problem {
+	margin-top: 25px;
+	font-size: 23px;
+	font-weight: lighter;
+	color: white;
+	line-height: 25px;
+}
+
+.hint {
+	margin-top: 25px;
+	font-size: 17px;
+	font-weight: lighter;
+	color: white;
+	line-height: 25px;
+}
+
+.link-list {
+	color: cyan;
+	text-decoration-line: underline;
+}
+
+.link {
+	margin-top: 10px;
+}
+
+.link :hover {
+	font-weight: bold;
+}
+
+.code-editor {
+	display: flex;
+	position: relative;
+	border-radius: 10px;
+	background-color: #e0e0e0;
+	width: 100%;
+	height: 400px;
+	margin-top: 50px;
+	overflow: hidden;
+	font-family: "Roboto Mono", monospace;
+}
+
+.line-numbers {
+	padding: 20px 8px 0 0;
+	text-align: end;
+	font-size: 22px;
+	color: lightgray;
+	background-color: #999999;
+	width: 50px;
+	height: 100%;
+}
+
+.each-line-number:not(.each-line-number:first-child) {
+	margin-top: 15px;
+}
+
+.code-block {
+	padding: 20px;
+	font-size: 22px;
+	color: gray;
+}
+
+.code {
+	display: block;
+}
+
+.code-input {
+	margin: 15px 0 0 20px;
+	padding: 0 10px;
+	height: 60px;
+	width: 300px;
+	resize: none;
+	border: none;
+	font-size: 20px;
+	font-family: "Roboto Mono", monospace;
+	color: gray;
+}
+
+.third-line-code {
+	margin-top: 7px;
+}
+
+#next-stage-button {
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+	width: 90px;
+	height: 50px;
+	border: none;
+	border-radius: 10px;
+	font-size: 20px;
+	color: rgba(255, 255, 255, 0.5);
+	background-color: rgb(126, 69, 0);
+	cursor: pointer;
+}
+
+.comparison-target {
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+	margin-top: 20px;
+}
+
+.pulse {
+	animation: pulse 1500ms 1500ms linear infinite;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale3d(1, 1, 1);
+	}
+
+	50% {
+		transform: scale3d(1.05, 1.05, 1.05);
+	}
+
+	100% {
+		transform: scale3d(1, 1, 1);
+	}
+}
+
+#board {
+	position: sticky;
+	top: 0;
+	width: 50vw;
+	height: 50vw;
+	min-width: 300px;
+	min-height: 300px;
+	max-width: 90vh;
+	max-height: 90vh;
+	overflow: hidden;
+}
+
+#gamebox {
+	z-index: 20;
+	display: flex;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 1em;
+	box-sizing: border-box;
+}
+
+#gameboxBackground {
+	z-index: 10;
+	border-radius: 0 0 0 10px;
+	background-color: #474659;
+	display: flex;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 1em;
+}
+
+.food {
+	position: relative;
+	width: 20%;
+	height: 20%;
+	overflow: hidden;
+}
+
+.swing {
+	animation: swing ease-in-out 1s infinite alternate;
+}
+
+@keyframes swing {
+	0% {
+		transform: rotate(3deg);
+	}
+	100% {
+		transform: rotate(-3deg);
+	}
+}
+
+.correct {
+	visibility: visible;
+	text-align: center;
+	height: 0;
+	transform: translateY(-80vh);
+	animation: translate_ 1500ms linear forwards;
+}
+
+#correct {
+	width: 60vh;
+	height: 60vh;
+}
+
+.correctText {
+	text-shadow: -1px -1px 0 #a2adff, 1px -1px 0 #c9cfff, -1px 1px 0 #7c88e6, 1px 1px 0 #5a66c4;
+	font-size: 40px;
+	font-weight: bold;
+	color: #7d89e7;
+	line-height: 25px;
+}
+
+@keyframes translate_ {
+	from {
+	}
+	60% {
+		opacity: 1;
+	}
+	to {
+		opacity: 0;
+		visibility: hidden;
+		/* transform: translateY(-300px); */
+	}
+}

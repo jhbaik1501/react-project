@@ -1,0 +1,64 @@
+body {
+	font-family: "Black Han Sans", sans-serif;
+	font-family: "Gowun Dodum", sans-serif;
+}
+
+.textUp {
+	position: relative;
+	opacity: 0;
+	animation: textUp 1000ms ease-in 100ms;
+	animation-fill-mode: forwards;
+}
+
+@keyframes textUp {
+	0% {
+		opacity: 0;
+		transform: translate3d(0, 50px, 0);
+	}
+	100% {
+		opacity: 1;
+		transform: translate3d(0, 0px, 0);
+	}
+}
+
+.textMotion_on {
+	display: inline-block;
+	overflow: hidden;
+	word-break: keep-all;
+}
+.textMotion_on [class^="textMotion_target"] {
+	position: relative;
+	-webkit-animation: textAppear 3s ease-in-out;
+	animation: textAppear 3s ease-in-out;
+	display: inline-block;
+	overflow: hidden;
+}
+
+.textUnderline {
+	background-position: left -50rem bottom 0;
+	-webkit-animation: textUnderline 1.3s cubic-bezier(0.28, 1.02, 0.68, 0.97) 0.4s forwards;
+	animation: textUnderline 1.3s cubic-bezier(0.28, 1.02, 0.68, 0.97) 0.4s forwards;
+	background: linear-gradient(transparent 60%, rgb(141 178 227) 0);
+}
+
+@keyframes textUnderline {
+	0% {
+		background-position: left -40rem bottom 0;
+	}
+	100% {
+		background-position: left 0 bottom 0;
+	}
+}
+@keyframes textAppear {
+	0% {
+		opacity: 0;
+		transform: translateX(-101%);
+	}
+	1% {
+		opacity: 1;
+		transform: translateX(-101%);
+	}
+	65% {
+		transform: translateX(0);
+	}
+}
