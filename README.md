@@ -5,6 +5,10 @@
 흥미로운 게임과 타로 운세가 기다리고 있습니다!
 
 
+![image1](https://user-images.githubusercontent.com/81180977/166450298-c858678b-2977-4e91-8a64-777d4f329621.png)
+![image2](https://user-images.githubusercontent.com/81180977/166450301-e0b9fd40-6c54-4c4a-a4db-d1a647a746b6.png)
+![image3](https://user-images.githubusercontent.com/81180977/166450305-efb5df26-7b79-491e-a335-ba10b14714ee.png)
+![image4](https://user-images.githubusercontent.com/81180977/166450309-8d30451b-8769-4afc-8628-d59080ef5927.png)
 
 CSS 게임
 게임을 통해 강아지에게 밥을 주며 CSS Flexbox를 연습해보세요!
